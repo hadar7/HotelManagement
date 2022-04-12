@@ -19,5 +19,6 @@ public class Reservation {
     private HashMap<Request,Boolean> guestsRequests;
     // closed to other rooms
 
+    public Ree
 
 }

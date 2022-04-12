@@ -27,6 +27,8 @@ public class Room {
     private Boolean  hasBathtub;
     private Boolean hasBalcony;
 
+    private Boolean bla;
+
 
 
 
